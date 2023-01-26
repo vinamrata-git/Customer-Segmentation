@@ -1,5 +1,7 @@
 # KYC: Know your customer 
 
+![alt text](https://github.com/vinamrata-git/Customer-Segmentation/blob/main/know-your-customer-kyc.png%20.jpeg?raw=true)
+
 There are three phases in the B2C analysis to know your customer and target the right customer for right offers.
 1. Segmentation 
 2. Targeting 
